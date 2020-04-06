@@ -1,0 +1,39 @@
+{
+	"embeds": [
+		{
+			"title": "PADOJRP Discord Server",
+			"url": "https://discord.gg/xZ88ByH/",
+			"author": {
+				"name": "PADOJRP",
+				"url": "https://padojrp.net/",
+				"icon_url": "https://padojrp.net/assets/img/Logo.png"
+			},
+			"footer": {
+				"text": "Information",
+				"icon_url": "https://raw.githubusercontent.com/Thiradus/Discord-Emojis/master/src/information.png"
+			},
+			"timestamp": "2020-04-06T18:01:00.000Z",
+			"color": 11074,
+			"fields": [
+				{
+					"name": "Information",
+					"value": "[Pennsylvania Department of Justice Roleplay (PADOJRP)](https://padojrp.net/) is a [FiveM](https://fivem.net/) roleplay community based on the US State of Pennsylvania."
+				},
+				{
+					"inline": true,
+					"name": "Support",
+					"value": "Need assistance? Send a message in <#695444070041911328>"
+				},
+				{
+					"name": "Rules",
+					"inline": true,
+					"value": "Be sure to read our <#695444059405156372>."
+				},
+				{
+					"name": "Donating",
+					"value": "Interested in supporting the project?  \n [Donate via our website](https://padojrp.net/donate/) and head over to <#695444070041911328>. Thanks so much! :heart:"
+				}
+			]
+		}
+	]
+}
