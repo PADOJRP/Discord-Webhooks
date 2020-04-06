@@ -1,0 +1,31 @@
+{
+	"embeds": [
+		{
+			"title": "PADOJRP Discord Server",
+			"url": "https://discord.gg/xZ88ByH/",
+			"author": {
+				"name": "PADOJRP",
+				"url": "https://padojrp.net/",
+				"icon_url": "https://padojrp.net/assets/img/Logo.png"
+			},
+			"color": 11074,
+			"description": "*These rules govern the use of the PADOJRP Discord.*\n\n**Use of this Discord must adhere to the [PADOJRP Terms of Service](https://padojrp.net/tos) and the [Discord Terms of Service](https://discordapp.com/terms/).**\n\n",
+			"footer": {
+				"text": "Rules",
+				"icon_url": "https://raw.githubusercontent.com/Thiradus/Discord-Emojis/master/src/hammer.png"
+			},
+			"fields": [
+				{
+					"name": "Rules",
+					"value": "1. Harassment of any sort is **prohibited**.\n2. Spam of Text Channels, Voice Channels, and/or any other services is **prohibited**.\n3. Advertisement of unrelated services is **prohibited**.\n4. Nudity and/or gore of any sort is **prohibited**.\n5. Engaging in, discussing, and/or promotion of activities in violation of the [Charter of the United Nations](https://www.un.org/en/charter-united-nations/index.html) or [United States Federal Law](https://www.usa.gov/laws-and-regs/) is **prohibited**."
+				},
+				{
+					"inline": true,
+					"name": "FiveM Server Rules",
+					"value": "Use of our FiveM server should also adhere to the [PADOJRP FiveM Server Rules](https://padojrp.net/rules/)."
+				}
+			],
+			"timestamp": "2020-04-06T18:01:00.000Z"
+		}
+	]
+}
