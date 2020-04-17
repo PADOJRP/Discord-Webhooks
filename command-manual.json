@@ -16,7 +16,7 @@
         },
         {
           "name": "**Roleplay**",
-          "value": "/carry - Carry a player\n/emote <emote> - Run Animation\n/piggyback - Hop on a players back!\n/takehostage - Take a player hostage",
+          "value": "/carry - Carry a player\n/emote <emote> - Run Animation\n/piggyback - Hop on a players back!\n/takehostage - Take a player hostage\n/fire - Fire Commands",
           "inline": true
         },
         {
@@ -26,7 +26,7 @@
         },
         {
           "name": "**Vehicles**",
-          "value": "/claim - Claim Vehicle\n/engine - Toggle Engine\n/lock - Toggle Lock\n/unlock - Toggle Lock\n/fire - Fire Commands",
+          "value": "/claim - Claim Vehicle\n/engine - Toggle Engine\n/lock - Toggle Lock\n/unlock - Toggle Lock",
           "inline": true
         }
       ]
