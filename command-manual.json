@@ -26,7 +26,7 @@
         },
         {
           "name": "**Vehicles**",
-          "value": "/claim - Claim Vehicle\n/engine - Toggle Engine\n/lock - Toggle Lock\n/unlock - Toggle Lock",
+          "value": "/claim - Claim Vehicle\n/engine - Toggle Engine\n/lock - Toggle Lock\n/unlock - Toggle Lock\n/fire - Fire Commands",
           "inline": true
         }
       ]
