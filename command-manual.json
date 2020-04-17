@@ -1,50 +1,45 @@
-{	"embeds":[		{
-			"title":"PADOJRP Command Manual",
-			"description":"This Guide contains all relevant commands and keybind for use on the PADOJRP FiveM Server.",
-			"color":143172
-		
-},
-		{			"title":"Commands",
-			"color":143172,
-			"fields":[				{
-					"name":"**Emergency Services**",
-					"value":"/911 <reason> - Call for 911\n/blip - Emergency Service Blip\n/onduty - PD and EMS Onduty Command",
-					"inline":true
-				
-},
-				{
-					"name":"**Roleplay**",
-					"value":"/carry - Carry a player\n/emote <emote> - Run Animation\n/piggyback - Hop on a players back!\n/takehostage - Take a player hostage",
-					"inline":true
-				
-},
-				{
-					"name":"**Utillity**",
-					"value":"/report <id> <reason> - Report Players",
-					"inline":true
-				
-},
-				{
-					"name":"**Vehicles**",
-					"value":"/claim - Claim Vehicle\n/engine - Toggle Engine\n/lock - Toggle Lock\n/unlock - Toggle Lock",
-					"inline":true
-				
-}
-			
-]
-		
-},
-		{			"title":"Keybinds",
-			"description":"F1 - Toggle vMenu\nF5 - Toggle PD/EMS Menu\nF6 - Toggle Scene Menu\nK - Toggle Lock\nG - Toggle Vehicle Engine\nY - Handsup\nQ - Toggle Emergency Service Lights\nLeft Alt - Toggle Siren\nCTRL + X - Toggle Radar\nSHIFT + G -Tackle a player",
-			"color":143172,
-			"footer":{
-				"text":"Command Manual",
-				"icon_url":"https://avatars2.githubusercontent.com/u/63088286?s=200&v=4"
-			
-},
-			"timestamp":"2020-04-17T19:24:00.000Z"
-		
-}
-	
-]
+{
+  "embeds": [
+    {
+      "title": "PADOJRP Control Manual",
+      "description": "This Guide contains all relevant commands and keybind for use on the PADOJRP FiveM Server.",
+      "color": 143172
+    },
+    {
+      "title": "Commands",
+      "color": 143172,
+      "fields": [
+        {
+          "name": "**Emergency Services**",
+          "value": "/911 <reason> - Call for 911\n/blip - Emergency Service Blip\n/onduty - PD and EMS Onduty Command",
+          "inline": true
+        },
+        {
+          "name": "**Roleplay**",
+          "value": "/carry - Carry a player\n/emote <emote> - Run Animation\n/piggyback - Hop on a players back!\n/takehostage - Take a player hostage",
+          "inline": true
+        },
+        {
+          "name": "**Utillity**",
+          "value": "/report <id> <reason> - Report Players",
+          "inline": true
+        },
+        {
+          "name": "**Vehicles**",
+          "value": "/claim - Claim Vehicle\n/engine - Toggle Engine\n/lock - Toggle Lock\n/unlock - Toggle Lock",
+          "inline": true
+        }
+      ]
+    },
+    {
+      "title": "Keybinds",
+      "description": "F1 - Toggle vMenu\nF5 - Toggle PD/EMS Menu\nF6 - Toggle Scene Menu\nK - Toggle Lock\nG - Toggle Vehicle Engine\nY - Handsup\nQ - Toggle Emergency Service Lights\nLeft Alt - Toggle Siren\nCTRL + X - Toggle Radar\nSHIFT + G -Tackle a player",
+      "color": 143172,
+      "footer": {
+        "text": "Control Manual",
+        "icon_url": "https://avatars2.githubusercontent.com/u/63088286?s=200&v=4"
+      },
+      "timestamp": "2020-04-17T19:24:00.000Z"
+    }
+  ]
 }
