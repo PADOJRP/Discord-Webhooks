@@ -33,7 +33,7 @@
     },
     {
       "title": "Keybinds",
-      "description": "F1 - Toggle vMenu\nF5 - Toggle PD/EMS Menu\nF6 - Toggle Scene Menu\nK - Toggle Lock\nG - Toggle Vehicle Engine\nY - Handsup\nQ - Toggle Emergency Service Lights\nLeft Alt - Toggle Siren\nCTRL + X - Toggle Radar\nSHIFT + G -Tackle a player",
+      "description": "F1 - Toggle vMenu\nF5 - Toggle PD/EMS Menu\nF6 - Toggle Scene Menu\nK - Toggle Lock\nG - Toggle Vehicle Engine\nY - Handsup\nQ - Toggle Emergency Service Lights\nLeft Alt - Toggle Siren\nCTRL + X - Toggle Radar\nSHIFT + G - Tackle a player\n] - Bait Car Pro",
       "color": 143172,
       "footer": {
         "text": "Control Manual",
