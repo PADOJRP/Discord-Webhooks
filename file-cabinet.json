@@ -1,0 +1,19 @@
+{
+  "embeds": [
+    {
+      "title": "PADOJRP Forms",
+      "description": "**Staff Applications** - [Link](https://docs.google.com/forms/d/e/1FAIpQLSeNGiFlDr8cmWla3Z2olmwxfbgRXLErJD5W-z2yBfxGqfTVKQ/viewform?usp=sf_link)\n\n**Staff Report Form** - [Link](https://docs.google.com/forms/d/e/1FAIpQLScc9HBm3luf2t6paHf9MVZdCRiXVwhx-FH0Am5f2Ov71ucwDg/viewform?usp=sf_link)\n\n**PSP Applications** - [Link](https://docs.google.com/forms/d/e/1FAIpQLSexH5LJFIQBohvppACO7fglF4j1o_3askdw6Knytj5L-uNFdA/viewform?usp=sf_link)\n\n**FD Applications** - [Link](https://docs.google.com/forms/d/e/1FAIpQLSdzwiv3JB6MwevU8l4_V4GhhWwbywi7NABlsNLlhjjE4Jxdvw/viewform?usp=sf_link)\n\n**FAA Applications** - *Coming Soon*\n\n**BAR Applications** - *Coming Soon*\n\n**Content Creator Applications** - *Coming Soon*\n\n**Internal Affairs Report Form** - [Link](https://docs.google.com/forms/d/e/1FAIpQLScVOd8qPbtQABCt3F1iOmNtJFESIKMqIxA8xOYtadLxU44GTg/viewform?usp=sf_link)\n\n**Suggestions Form** - [Link](https://docs.google.com/forms/d/e/1FAIpQLSdReULfm7jhT4NM400-1oqZe2XI35w2UJBdD1nkGDk4Ok0Kog/viewform?usp=sf_link)\n\n**Bug Reports** - [Link](https://docs.google.com/forms/d/e/1FAIpQLSe0Md0yJR_ClDo8hwQF1YiVQZHwD3fERW1Se6szGast-udKaA/viewform?usp=sf_link)",
+      "color": 11074,
+      "author": {
+        "name": "PADOJRP",
+        "url": "https://padojrp.net/",
+        "icon_url": "https://padojrp.net/assets/img/Logo.png"
+      },
+      "footer": {
+        "text": "File Cabinet",
+        "icon_url": "https://raw.githubusercontent.com/Thiradus/Discord-Emojis/master/src/information.png"
+      },
+      "timestamp": "2020-04-21T23:29:00.000Z"
+    }
+  ]
+}
