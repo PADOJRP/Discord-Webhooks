@@ -1,0 +1,24 @@
+{
+	"embeds": [
+		{
+			"title": "Reaction Roles",
+			"author": {
+				"name": "PADOJRP",
+				"url": "https://padojrp.net/",
+				"icon_url": "https://padojrp.net/assets/img/Logo.png"
+			},
+			"footer": {
+				"text": "Reactions Roles",
+				"icon_url": "https://raw.githubusercontent.com/Thiradus/Discord-Emojis/master/src/information.png"
+			},
+			"timestamp": "2020-04-21T18:01:00.000Z",
+			"color": 11074,
+			"fields": [
+				{
+					"name": "Notification Squad",
+					"value": "Want to be notified of changelogs, status updates, and much more? Become part of our notification squad by reacting below with the emoji to get your role and stay up to date with all updates we send out!"
+				}
+			]
+		}
+	]
+}
