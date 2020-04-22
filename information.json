@@ -38,6 +38,10 @@
 					"value": "Sign up for our [CAD](https://padojrp.net/cad) today."
 				},
 				{
+					"name": "Penal Code",
+					"value": "You can find our [Penal Code](https://docs.google.com/spreadsheets/d/1-AMer-dnVLKbz-pNQF39atc4QXHMCnYV-jC-Pu1NWqA/edit?usp=sharing) here."
+				},
+				{
 					"name": "Server",
 					"value": "You can connect to our server using the following ip:  \n ```172.96.165.214:30120```"
 				}
