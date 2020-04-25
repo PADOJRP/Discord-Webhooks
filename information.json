@@ -48,10 +48,10 @@
 				{
 					"name": "Teamspeak",
 					"value": "You can connect to our teamspeak using the following ip:  \n ```ts.padojrp.net```"
-				}
+				},
 				{
 					"name": "TS Realistic Radio Plugin",
-					"value": "You can find our realistic radio plugin for teamspeak [here](https://drive.google.com/drive/folders/1HD8bHuhuot9l3CfhC68F9aOMR2GxBwTA?usp=sharing).`"
+					"value": "You can find our realistic radio plugin for teamspeak [here](https://drive.google.com/drive/folders/1HD8bHuhuot9l3CfhC68F9aOMR2GxBwTA?usp=sharing)."
 				}
 			]
 		}
