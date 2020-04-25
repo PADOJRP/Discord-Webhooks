@@ -26,7 +26,12 @@
         },
         {
           "name": "**Vehicles**",
-          "value": "/claim - Claim Vehicle\n/engine - Toggle Engine\n/lock - Toggle Lock\n/unlock - Toggle Lock",
+          "value": "/claim - Claim Vehicle\n/engine - Toggle Engine\n/lock - Toggle Lock\n/unlock - Toggle Lock\n/dv - Delete Vehicle\n/tow - Toggle Attach Flatbed",
+          "inline": true
+        },
+        {
+          "name": "**Admin**",
+          "value": "/annouce <msg> - Annouce messages\n/admindv - Remove all unoccupied vehicles\n/priority - Set 15m Priority cooldown\n/resetpcd - Reset priority cooldown\n/inprogress - Set priority in progress\n/onhold - Set priority on hold\n/peacetime - Toggle Peacetime",
           "inline": true
         }
       ]
