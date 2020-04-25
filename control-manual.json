@@ -11,7 +11,7 @@
       "fields": [
         {
           "name": "**Emergency Services**",
-          "value": "/911 <reason> - Call for 911\n/blip - Emergency Service Blip\n/onduty - PD and EMS Onduty Command",
+          "value": "/911 <reason> - Call for 911\n/onduty - PD and EMS Onduty Command",
           "inline": true
         },
         {
