@@ -16,7 +16,7 @@
         },
         {
           "name": "**Roleplay**",
-          "value": "/carry - Carry a player\n/emote <emote> - Run Animation\n/piggyback - Hop on a players back!\n/takehostage - Take a player hostage\n/ragdoll - Ragdoll Toggle\n/fire - Fire Commands\n/shield - Retrieve Shield",
+          "value": "/carry - Carry a player\n/emote <emote> - Run Animation\n/piggyback - Hop on a players back!\n/takehostage - Take a player hostage\n/ragdoll - Ragdoll Toggle\n/fire - Fire Commands\n/shield - Retrieve Shield\n/vest <light|medium|heavy> - Take vest from car",
           "inline": true
         },
         {
