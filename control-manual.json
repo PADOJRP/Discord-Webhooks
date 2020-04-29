@@ -11,12 +11,12 @@
       "fields": [
         {
           "name": "**Emergency Services**",
-          "value": "/911 <reason> - Call for 911\n/onduty - PD and EMS Onduty Command",
+          "value": "/911 <reason> - Call for 911\n/onduty - PD and EMS Onduty Command\n/bk <1|2|3|99> - Call for Backup\n/jailme <time> - Jail yourself (seconds)",
           "inline": true
         },
         {
           "name": "**Roleplay**",
-          "value": "/carry - Carry a player\n/emote <emote> - Run Animation\n/piggyback - Hop on a players back!\n/takehostage - Take a player hostage\n/ragdoll - Ragdoll Toggle\n/fire - Fire Commands\n/shield - Retrieve Shield\n/vest <light|medium|heavy> - Take vest from car",
+          "value": "/carry - Carry a player\n/emote <emote> - Run Animation\n/piggyback - Hop on a players back!\n/takehostage - Take a player hostage\n/ragdoll - Ragdoll Toggle\n/fire - Fire Commands\n/shield - Retrieve Shield\n/vest <light|medium|heavy> - Take vest from car\n/postal - Set waypoint at postal",
           "inline": true
         },
         {
@@ -38,7 +38,7 @@
     },
     {
       "title": "Keybinds",
-      "description": "F1 - Toggle vMenu\nF2 - Toggle Noclip\nF3 - Toggle Emote Menu\nF5 - Toggle Interaction Menu\nF6 - Toggle Scene Menu\nF7 - Handsup\nF9 - Drop Weapon\nK - Toggle Lock\nG - Toggle Vehicle Engine\nQ - Toggle Emergency Service Lights\nLeft Alt - Toggle Siren\nLeft CTRL + X - Toggle Radar\nLeft SHIFT + G - Tackle a player\nB - Toggle Point\n] - Bait Car Pro\nZ - Toggle Crouch\nLeft CTRL - Toggle Prone/Lower Ladder(Vehicle)\nLeft  SHIFT - Raise Ladder(Vehicle)\nH - Release Target (Vehicle)\n~ - Toggle Ragdoll",
+      "description": "F1 - Toggle vMenu\nF2 - Toggle Noclip\nF3 - Toggle Emote Menu\nF5 - Toggle Interaction Menu\nF6 - Toggle Scene Menu\nF7 - Handsup\nF9 - Drop Weapon\nK - Toggle Lock\nG - Toggle Vehicle Engin\nCAPS - Toggle Vehicle Cruise\nQ - Toggle Emergency Service Lights\nLeft Alt - Toggle Siren\nLeft CTRL + X - Toggle Radar\nLeft SHIFT + G - Tackle a player\nB - Toggle Point\n] - Bait Car Pro\nZ - Toggle Crouch\nLeft CTRL - Toggle Prone/Lower Ladder(Vehicle)\nLeft  SHIFT - Raise Ladder(Vehicle)\nH - Release Target (Vehicle)\n~ - Toggle Ragdoll\nBKSP - Toggle Hazards\n= - Toggle Right Turn Signal\n- - Toggle Left Turn Signal\nU - Toggle Radio\nL - Toggle Holster",
       "color": 143172,
       "footer": {
         "text": "Control Manual",
