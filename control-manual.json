@@ -11,7 +11,7 @@
       "fields": [
         {
           "name": "**Emergency Services**",
-          "value": "/911 <reason> - Call for 911\n/onduty - PD and EMS Onduty Command\n/bk <1|2|3|99> - Call for Backup\n/jailme <time> - Jail yourself (seconds)\n/jail <jail password> <id> <time> - Jail person (seconds)\n/unjail <jail password> <id> - Unjail person",
+          "value": "/911 <message> - Call for 911\n/onduty - PD and EMS Onduty Command\n/bk <1|2|3|99> - Call for Backup\n/jailme <time> - Jail yourself (seconds)\n/jail <jail password> <id> <time> - Jail person (seconds)\n/unjail <jail password> <id> - Unjail person",
           "inline": true
         },
         {
@@ -21,7 +21,7 @@
         },
         {
           "name": "**Utillity**",
-          "value": "/report <id> <reason> - Report Players\n/website - Community Website\n/discord - Community Discord\n/rules - Server Rules\n/cad - CAD Link\n/ooc - Out of Character\n/looc - Local Out of Character\n/me - Roleplay Action",
+          "value": "/report <id> <reason> - Report Players\n/website - Community Website\n/discord - Community Discord\n/rules - Server Rules\n/cad - CAD Link\n/ooc <message> - Out of Character\n/looc <message> - Local Out of Character\n/me - Roleplay Action",
           "inline": true
         },
         {
