@@ -26,7 +26,7 @@
         },
         {
           "name": "**Vehicles**",
-          "value": "/claim - Claim Vehicle\n/engine - Toggle Engine\n/lock - Toggle Lock\n/unlock - Toggle Lock\n/dv - Delete Vehicle\n/tow - Toggle Attach Flatbed",
+          "value": "/claim - Claim Vehicle\n/engine - Toggle Engine\n/lock - Toggle Lock\n/unlock - Toggle Lock\n/dv - Delete Vehicle\n/shuffle - Shuffle to Driver Seat\n/tow - Toggle Attach Flatbed",
           "inline": true
         },
         {
