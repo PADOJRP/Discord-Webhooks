@@ -21,7 +21,7 @@
         },
         {
           "name": "**Utillity**",
-          "value": "/report <id> <reason> - Report Players\n/website - Community Website\n/discord - Community Discord\n/rules - Server Rules\n/cad - CAD Link\n/ooc <message> - Out of Character\n/looc <message> - Local Out of Character\n/me - Roleplay Action",
+          "value": "/report <id> <reason> - Report Players\n/website - Community Website\n/discord - Community Discord\n/rules - Server Rules\n/cad - CAD Link\n/ooc <message> - Out of Character\n/looc <message> - Local Out of Character\n/me - Roleplay Action\n/text - Ingame Private Message\n/pm - OOC Private Message",
           "inline": true
         },
         {
