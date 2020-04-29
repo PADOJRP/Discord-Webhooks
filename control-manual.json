@@ -11,12 +11,12 @@
       "fields": [
         {
           "name": "**Emergency Services**",
-          "value": "/911 <reason> - Call for 911\n/onduty - PD and EMS Onduty Command\n/bk <1|2|3|99> - Call for Backup\n/jailme <time> - Jail yourself (seconds)\n/jail [jail password] [id] [time] - Jail person (seconds)\n/unjail [jail password] [id] - Unjail person",
+          "value": "/911 <reason> - Call for 911\n/onduty - PD and EMS Onduty Command\n/bk <1|2|3|99> - Call for Backup\n/jailme <time> - Jail yourself (seconds)\n/jail <jail password> <id> <time> - Jail person (seconds)\n/unjail <jail password> <id> - Unjail person",
           "inline": true
         },
         {
           "name": "**Roleplay**",
-          "value": "/carry - Carry a player\n/emote <emote> - Run Animation\n/piggyback - Hop on a players back!\n/takehostage - Take a player hostage\n/ragdoll - Ragdoll Toggle\n/fire - Fire Commands\n/shield - Retrieve Shield\n/vest <light|medium|heavy> - Take vest from car\n/postal - Set waypoint at postal",
+          "value": "/carry - Carry a player\n/emote <emote> - Run Animation\n/piggyback - Hop on a players back!\n/takehostage - Take a player hostage\n/ragdoll - Ragdoll Toggle\n/fire - Fire Commands\n/shield - Retrieve Shield\n/vest <light|medium|heavy> - Take vest from car\n/postal <postalcode> - Set waypoint at postal",
           "inline": true
         },
         {
