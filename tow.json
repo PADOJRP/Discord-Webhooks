@@ -19,9 +19,11 @@
           "value": "```flatbed```\n```towtruck```\n```towtruck2```",
           "inline": true
         }
-    ]
-  },
-"footer": {
+      ]
+    },
+	{
+		"color": 143172,
+		"footer": {
         "text": "Tow Guide",
         "icon_url": "https://avatars2.githubusercontent.com/u/63088286?s=200&v=4"
       },
