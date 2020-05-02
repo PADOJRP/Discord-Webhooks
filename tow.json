@@ -1,0 +1,23 @@
+{
+  "embeds": [
+    {
+      "title": "PADOJRP Tow Guide",
+      "description": "This Guide contains all relevant information to be part of Towing on the PADOJRP FiveM Server.",
+      "color": 143172
+    },
+    {
+      "title": "Information",
+      "color": 143172,
+      "fields": [
+        {
+          "name": "**About Tow**",
+          "value": "Tow is valuable to the city as it takes care of destroyed/abondoned/confiscated vehicles that need to be taken away. All tow truck drivers are expected to be in RTO while on duty. This way they can get called out to scenes and such and not just respond to twitter. The teamspeak IP can be found below where you will then need to join the corresponding region to where they are on duty.\n```ts.padojrp.net```",
+          "inline": true
+        },
+        {
+          "name": "**Tow Vehicles**",
+          "value": "```flatbed```\n```towtruck```\n```towtruck2```",
+          "inline": true
+        },
+  ]
+}
