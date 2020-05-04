@@ -16,12 +16,12 @@
         },
         {
           "name": "**Roleplay**",
-          "value": "/carry - Carry a player\n/emote <emote> - Run Animation\n/piggyback - Hop on a players back!\n/takehostage - Take a player hostage\n/ragdoll - Ragdoll Toggle\n/fire - Fire Commands\n/shield - Retrieve Shield\n/vest <light|medium|heavy> - Take vest from car\n/postal <postalcode> - Set waypoint at postal",
+          "value": "/carry - Carry a player\n/emote <emote> - Run Animation\n/piggyback - Hop on a players back!\n/takehostage - Take a player hostage\n/ragdoll - Ragdoll Toggle\n/fire - Fire Commands\n/shield - Retrieve Shield\n/vest <light|medium|heavy> - Take vest from car\n/postal <postalcode> - Set waypoint at postal\n/cpr - Preform CPR on Nearest Player",
           "inline": true
         },
         {
           "name": "**Utillity**",
-          "value": "/report <id> <reason> - Report Players\n/website - Community Website\n/discord - Community Discord\n/rules - Server Rules\n/cad - CAD Link\n/ooc <message> - Out of Character\n/looc <message> - Local Out of Character\n/me - Roleplay Action\n/roll - Roll a die\n/text - IC Private Message\n/pm - OOC Private Message",
+          "value": "/report <id> <reason> - Report Players\n/website - Community Website\n/discord - Community Discord\n/rules - Server Rules\n/cad - CAD Link\n/ooc <message> - Out of Character\n/looc <message> - Local Out of Character\n/me - Roleplay Action\n/roll - Roll a die\n/text - IC Private Message\n/pm - OOC Private Message\n/revive - Revive Where Dead\n/respawn - Respawn at Hostpital",
           "inline": true
         },
         {
