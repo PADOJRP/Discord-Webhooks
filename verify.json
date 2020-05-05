@@ -16,7 +16,7 @@
 			"fields": [
 				{
 					"name": "Get Verified",
-					"value": "In order to get full access to our discord please react to the roll below to grant yourself access to send messages in our server. This is to aid in anti raids against the discord server."
+					"value": "In order to get full access to our discord please react to the role below to grant yourself access to send messages in our server. This is to help protect us against raids towards the discord server."
 				}
 			]
 		}
