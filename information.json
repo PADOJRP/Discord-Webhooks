@@ -43,7 +43,7 @@
 				},
 				{
 					"name": "Server",
-					"value": "You can connect to our server using the following ip:  \n ```public.padojrp.net``` \n ```172.96.165.214:30120```"
+					"value": "You can connect to our server using the following ip:  \n ```public.padojrp.net``` \n or \n\n ```172.96.165.214:30120```"
 				},
 				{
 					"name": "Teamspeak",
