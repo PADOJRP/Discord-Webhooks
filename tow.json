@@ -21,7 +21,7 @@
         },
 	{
           "name": "**Controls**",
-          "value": "```Left CTRL - Lower Ladder(Vehicle)```\n```Left SHIFT - Raise Ladder(Vehicle)```\n```Left SHIFT - Raise Ladder(Vehicle)```",
+          "value": "```Left CTRL - Lower Ladder(Vehicle)```\n```Left SHIFT - Raise Ladder(Vehicle)```\n```H - Release Target (Vehicle)```",
           "inline": true
         },
 	{
