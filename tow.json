@@ -23,7 +23,7 @@
           "name": "**Controls**",
           "value": "```Left CTRL - Toggle Prone/Lower Ladder(Vehicle)```\n```Left SHIFT - Raise Ladder(Vehicle)```\n```Left SHIFT - Raise Ladder(Vehicle)```",
           "inline": true
-        }
+        },
 	{
           "name": "**Commands**",
           "value": "```/tow - Toggle Flatbed Attach```",
