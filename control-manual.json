@@ -38,7 +38,7 @@
     },
     {
       "title": "Keybinds",
-      "description": "F1 - Toggle vMenu\nF2 - Toggle Noclip\nF3 - Toggle Emote Menu\nF5 - Toggle Interaction Menu\nF6 - Toggle Scene Menu\nF7 - Handsup\nF9 - Drop Weapon\nK - Toggle Lock\nG - Toggle Vehicle Engin\nCAPS - Toggle Vehicle Cruise\nQ - Toggle Emergency Service Lights\nLeft Alt - Toggle Siren\nLeft CTRL + X - Toggle Radar\nLeft SHIFT + G - Tackle a player\nB - Toggle Point\n] - Bait Car Pro\nZ - Toggle Crouch\nLeft CTRL - Toggle Prone/Lower Ladder(Vehicle)\nLeft  SHIFT - Raise Ladder(Vehicle)\nH - Release Target (Vehicle)\n~ - Toggle Ragdoll\nINS - Toggle Hazards\n= - Toggle Right Turn Signal\n- - Toggle Left Turn Signal\nU - Toggle Radio\nL - Toggle Holster",
+      "description": "F1 - Toggle vMenu\nF2 - Toggle Noclip\nF3 - Toggle Emote Menu\nF5 - Toggle Interaction Menu\nF6 - Toggle Scene Menu\nF7 - Handsup\nF9 - Drop Weapon\nY - Switch Voice Range\nK - Toggle Lock\nG - Toggle Vehicle Engin\nCAPS - Toggle Vehicle Cruise\nQ - Toggle Emergency Service Lights\nLeft Alt - Toggle Siren\nLeft CTRL + X - Toggle Radar\nLeft SHIFT + G - Tackle a player\nB - Toggle Point\n] - Bait Car Pro\nZ - Toggle Crouch\nLeft CTRL - Toggle Prone/Lower Ladder(Vehicle)\nLeft  SHIFT - Raise Ladder(Vehicle)\nH - Release Target (Vehicle)\n~ - Toggle Ragdoll\nINS - Toggle Hazards\n= - Toggle Right Turn Signal\n- - Toggle Left Turn Signal\nU - Toggle Radio\nL - Toggle Holster",
       "color": 143172,
       "footer": {
         "text": "Control Manual",
