@@ -21,7 +21,7 @@
         },
         {
           "name": "**Utillity**",
-          "value": "/report <id> <reason> - Report Players\n/website - Community Website\n/discord - Community Discord\n/rules - Server Rules\n/cad - CAD Link\n/ooc <message> - Out of Character\n/looc <message> - Local Out of Character\n/me - Roleplay Action\n/roll - Roll a die\n/text - IC Private Message\n/pm - OOC Private Message\n/revive - Revive Where Dead\n/respawn - Respawn at Hostpital",
+          "value": "/report <id> <reason> - Report Players\n/website - Community Website\n/discord - Community Discord\n/rules - Server Rules\n/cad - CAD Link\n/ooc <message> - Out of Character\n/looc <message> - Local Out of Character\n/me - Roleplay Action\n/roll - Roll a die\n/text - IC Private Message\n/pm - OOC Private Message\n/revive - Revive Where Dead\n/respawn - Respawn at Hostpital\n/cam - Weazel News Camera\n/mic - Weazel News Mic\n/bmic - Weazel News Boom Mic",
           "inline": true
         },
         {
@@ -38,7 +38,7 @@
     },
     {
       "title": "Keybinds",
-      "description": "F1 - Toggle vMenu\nF2 - Toggle Noclip\nF3 - Toggle Emote Menu\nF5 - Toggle Interaction Menu\nF6 - Toggle Scene Menu\nF7 - Handsup\nF9 - Drop Weapon\nY - Switch Voice Range\nK - Toggle Lock\nG - Toggle Vehicle Engin\nCAPS - Toggle Vehicle Cruise\nQ - Toggle Emergency Service Lights\nLeft Alt - Toggle Siren\nLeft CTRL + X - Toggle Radar\nLeft SHIFT + G - Tackle a player\nB - Toggle Point\n] - Bait Car Pro\nZ - Toggle Crouch\nLeft CTRL - Toggle Prone/Lower Ladder(Vehicle)\nLeft  SHIFT - Raise Ladder(Vehicle)\nH - Release Target (Vehicle)\n~ - Toggle Ragdoll\nINS - Toggle Hazards\n= - Toggle Right Turn Signal\n- - Toggle Left Turn Signal\nU - Toggle Radio\nL - Toggle Holster",
+      "description": "F1 - Toggle vMenu\nF2 - Toggle Noclip\nF3 - Toggle Emote Menu\nF5 - Toggle Interaction Menu\nF6 - Toggle Scene Menu\nF7 - Handsup\nF9 - Drop Weapon\nY - Switch Voice Range\nK - Toggle Lock\nG - Toggle Vehicle Engin\nCAPS - Toggle Vehicle Cruise\nQ - Toggle Emergency Service Lights\nLeft Alt - Toggle Siren\nLeft CTRL + X - Toggle Radar\nLeft SHIFT + G - Tackle a player\nB - Toggle Point\n] - Bait Car Pro\nZ - Toggle Crouch\nLeft CTRL - Toggle Prone/Lower Ladder(Vehicle)\nLeft  SHIFT - Raise Ladder(Vehicle)\nH - Release Target (Vehicle)\n~ - Toggle Ragdoll\nINS - Toggle Hazards\n= - Toggle Right Turn Signal\n- - Toggle Left Turn Signal\nU - Toggle Radio\nL - Toggle Holster\nESC - Exit Weazel News Cam",
       "color": 143172,
       "footer": {
         "text": "Control Manual",
